@@ -1,6 +1,6 @@
 {
-    "name": "Pikachu BY Baala",
-    "description": "pikachu bot - created by baala. World’s first UserBot made for WhatsApp.",
+    "name": "Pikachu BY Anum",
+    "description": "pikachu bot - created by anum. World’s first UserBot made for WhatsApp.",
     "logo": "https://raw.githubusercontent.com/itxammy/pikachu/master/Pikachu-407x400.png",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/itxammy/pikachu",
@@ -94,7 +94,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━╼⤏BAALA BOT⤎╾━━━•"
+            "value": "•━━━━╼⤏ANUM BOT⤎╾━━━•"
         },
         "HEROKU_API_KEY": {
             "description": "Heroku API Key.",
@@ -151,7 +151,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```\n\n```pikachu🧚‍♂️```\n\n```coded by BAALA-SHETAAN```\n\n```wa.me/923207371452```\n\n```https://www.facebook.com/painduno1```"
+            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```\n\n```pikachu🧚‍♂️```\n\n```coded by ANUM-DarK```\n\n```wa.me/447874342939```\n\n```https://t.me/Dark00788```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
