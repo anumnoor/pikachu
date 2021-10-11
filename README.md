@@ -8,11 +8,11 @@
 <a href="#"><img title="Baala" src="https://img.shields.io/badge/Baala-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://facebook.com/painduno1"><img title="Author" src="https://img.shields.io/badge/Author-baala-shetan/pikachu?color=blue&style=for-the-badge&logo=facebook"></a>
+<a href="https://facebook.com/anumnoor"><img title="Author" src="https://img.shields.io/badge/Author-Anum-DARK/pikachu?color=blue&style=for-the-badge&logo=facebook"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/itxammy">Baala</a> to make it public
+Project created by <a href="https://github.com/itxammy">Anum</a> to make it public
     <br>
        | © |
         Reserved |
@@ -23,13 +23,13 @@ Project created by <a href="https://github.com/itxammy">Baala</a> to make it pub
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://www.facebook.com/painduno1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://www.facebook.com/anumnoor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <a href="https://wa.me/923207371452" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Me on Youtube 👇:</h4>
 <p align="center">
-<a href="https://youtube.com/channel/UCukP4xTkzkJh_XOaLXZ4SZA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href="https://youtube.com/channel/UCXyHlCaFfkKyAgygSYuulCw" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>
   
 
@@ -47,7 +47,7 @@ Project created by <a href="https://github.com/itxammy">Baala</a> to make it pub
 Click WA logo to join WhatsApp group 👇
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/IDWUTLr72QZKXpJiznf4pb" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
+  <a href="https://t.me/Dark00788" target="blank"><img align="center" src="https://www.linkpicture.com/q/image-removebg-preview-9_2.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p>
 
     
@@ -56,7 +56,7 @@ Click WA logo to join WhatsApp group 👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@itxammy/WhatsApp-Bot-By-Baala?v=1)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@itxammy/WhatsApp-Bot-By-Anum?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itxammy/pikachu.git)
      </div>
