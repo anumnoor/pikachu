@@ -5,7 +5,7 @@
         <img src="https://media.giphy.com/media/12r4pHjvAOv48o/giphy.gif" alt="GIF" width="250" height="200"/>
 </p>
  <p align="center">
-<a href="#"><img title="Anum" src="https://img.shields.io/badge/Baala-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Anum" src="https://img.shields.io/badge/Anum-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://facebook.com/anumnoor"><img title="Author" src="https://img.shields.io/badge/Author-Anum-DARK/pikachu?color=blue&style=for-the-badge&logo=facebook"></a>
@@ -111,9 +111,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Baala](https://github.com/itxammy.png?size=100)](https://github.com/itxammy) |  [![YasirSial](https://github.com/YasirSial.png?size=100)](https://github.com/YasirSial) | [![EvilZeemi](https://github.com/EvilZeemi.png?size=100)](https://github.com/EvilZeemi) 
+  [![Baala](https://github.com/itxammy.png?size=100)](https://github.com/itxammy) |  [![YasirSial](https://github.com/YasirSial.png?size=100)](https://github.com/YasirSial) | [![Anum](https://github.com/Anum.png?size=100)](https://github.com/EvilAnuM) 
 ----|----|----
-[Baala](https://github.com/itxammy)  | [Yasir Sial](https://github.com/YasirSial) | [Evil Zeemi](https://github.com/EvilZeemi)
+[Baala](https://github.com/itxammy)  | [Yasir Sial](https://github.com/YasirSial) | [Evil Anum](https://github.com/Anum)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
